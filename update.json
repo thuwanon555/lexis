@@ -1,17 +1,11 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.9",
+"Version":"1.10",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/thuwanon555/lexis/raw/master/update.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (28/05/2020)
-รองรับ ซิม TRUE & DTAC
-DTAC โปร SHOPEE
-DTAC โปร HAPPYWORK
-TRUE โปร LINE
-มีไฟล์ VPS ฟรี
-มีไฟล์ฟรีเซิฟไทย auto(6เซิฟ)
- 
+ลองใช้ฟรี
 ",
  
  
