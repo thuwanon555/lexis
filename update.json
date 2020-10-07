@@ -1,8 +1,8 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.5",
+"Version":"1.6",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/thuwanon555/lexis/raw/master/Update.zip" ,
+"Url":"https://github.com/thuwanon555/lexis/raw/master/update.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (8/10/2020)
 รองรับ ซิม TRUE & DTAC
