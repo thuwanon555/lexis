@@ -1,16 +1,24 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.5",
+"Version":"1.0",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/thuwanon555/lexis/raw/master/update.zip" ,
-"Changelog":"พบไฟล์ใหม่ (12/10/2020)
-รองรับ ซิม TRUE & DTAC
-DTAC โปร SHOPEE
-DTAC โปร SOCIAL
-TRUE โปร LINE
-TRUE โปร YOUTUBE
-มีไฟล์ VPS ฟรี
-มีไฟล์ฟรีเซิฟไทย",
+"Changelog":"การอัพเดต ล่าสุด 26/01/64
+โปร SIM DTAC ที่รองรับการใช้งานอินเตอร์เน็ต
+SIM DTAC +SOCIAL+GO
+SIM DTAC+LINE+GO
+*SIM DTAC+HAPPY WORK
+โปรนี้ต้องไม่มีเน็ตกันรั่วจึงจะสามารถใช้งานได้
+
+โปร SIM TRUE ที่รองรับการใช้งานอินเตอร์เน็ต
+SIM TRUE+PROSOCIAL
+SIM TRUE+NOPRO
+
+*แก้ไขfile config ใหม่ทั้งหมด ถ้าไม่ติดให้กดย้ำๆ
+#ไฟล์ใหนไม่แรงต้องขออภัยด้วย
+
+สนันสนุน TRUEWALLET 0926458929
+ขอให้มีความสุขกับการใช้ INTERNETน่ะคับ",
  
  
  
