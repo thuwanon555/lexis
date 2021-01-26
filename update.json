@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.0",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/thuwanon555/lexis/raw/master/update.zip" ,
+"Url":"https://github.com/thuwanon555/lexis/raw/master/update.zip",
 "Changelog":"การอัพเดต ล่าสุด 26/01/64
 โปร SIM DTAC ที่รองรับการใช้งานอินเตอร์เน็ต
 SIM DTAC +SOCIAL+GO
