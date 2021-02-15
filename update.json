@@ -1,14 +1,12 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.5",
+"Version":"1.6",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/thuwanon555/lexis/raw/master/update.zip",
 "Changelog":"
 
-การอัพเดต ล่าสุด 26/01/64
+การอัพเดต ล่าสุด 15/02/64
 
-โปร SIM AIS. ที่รองรับการใช้งานอินเตอร์เน็ต
-SIM AIS AISPLAY+64kbs
 
 โปร SIM DTAC ที่รองรับการใช้งานอินเตอร์เน็ต
 SIM DTAC +SOCIAL+GO
@@ -18,7 +16,6 @@ SIM DTAC+LINE+GO
 
 โปร SIM TRUE ที่รองรับการใช้งานอินเตอร์เน็ต
 SIM TRUE+PROSOCIAL
-SIM TRUE+NOPRO
 
 *แก้ไขfile config ใหม่ทั้งหมด ถ้าไม่ติดให้กดย้ำๆ
 #ไฟล์ใหนไม่แรงต้องขออภัยด้วย
